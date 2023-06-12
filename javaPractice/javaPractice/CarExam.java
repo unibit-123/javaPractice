@@ -8,7 +8,7 @@ public class CarExam {
 		Car c2 = new Car();
 		
 		c1.name = "소방차";
-		c1.number = 2;
+		c1.number = 3;
 		
 		
 		System.out.println(c1.name);

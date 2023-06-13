@@ -2,10 +2,7 @@ package javaPractice;
 
 public class Car {
 
-		String name;
-		int number;
-		
-		public Car (String n) {
-			name = n;
+		public void run() {
+			System.out.println("this is Car Method");
 		}
 }
